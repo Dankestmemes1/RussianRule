@@ -1,1 +1,11 @@
-game:GetService("Workspace").Living["Joe Kujoe"].RemoteEvent:FireRemote
+
+
+
+
+
+
+
+
+
+
+-- game:GetService("Workspace").Living["Thug"].RemoteEvent:FireServer()
